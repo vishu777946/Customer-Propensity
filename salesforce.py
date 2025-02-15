@@ -5,8 +5,8 @@ import requests
 # Salesforce credentials (Production)
 security_token = "C8A1xS6voj2VUpxyUSjPBhr3k"
 domain_url = "lntrealty.my.salesforce.com"
-username = "ltr_bot1@larsentoubro.com"
-password = "ltrbot@123"
+username = "user.com"
+password = "password"
 
 # Salesforce Authentication (Production)
 sf_instance = f"https://{domain_url}"
