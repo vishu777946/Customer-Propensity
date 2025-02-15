@@ -3,7 +3,7 @@ from simple_salesforce import Salesforce
 import requests
 
 # Salesforce credentials (Production)
-security_token = "C8A1xS6voj2VUpxyUSjPBhr3k"
+security_token = "abac223"
 domain_url = "lntrealty.my.salesforce.com"
 username = "user.com"
 password = "password"
